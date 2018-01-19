@@ -1,13 +1,14 @@
-#git practice, xiao zhu pei qi
+(Delete all comments in the file!!!)
+#git practice, // delete xiao zhu pei qi,
 
 
-trying out git fancy features xiong da xiong er
+trying out git fancy features // delete xiong da xiong er
 
-adding more stuffs hu lu wa
-Working on feature one hei mao jing zhang
-first commit of feature one  wang wang dui
+adding more stuffs // delete hu lu wa
+Working on feature one // delete hei mao jing zhang
+first commit of feature one  // delete wang wang dui
 
-#Add more features to feature one
+#Add more features to feature one // test
 Master made modifications!
 second commit: more features to F1 added
 
