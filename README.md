@@ -1,7 +1,6 @@
 (Delete all comments in the file!!!)
 #git practice, // delete xiao zhu pei qi,
 
-
 trying out git fancy features // delete xiong da xiong er
 
 adding more stuffs // delete hu lu wa
